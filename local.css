@@ -1,0 +1,9 @@
+p img {
+  padding: 1em;
+  border: 2px solid #aaa;
+  border-radius: .5em;
+}
+
+blockquote strong {
+  font-size: 1.5em;
+}

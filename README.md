@@ -17,15 +17,16 @@ The **Pathways Assessment Reporting Tool** is a Canvas-based application for pre
 
 - Faculty then apply objectives to assignments using the tool
 
-- Assessed assignments must use *built-in* Canvas tools  
-  :heavy_check_mark: Assignments, Quizzes, Discussions, External LTI tools that address a single Pathways outcome  
+- Assessed assignments must use ***built-in*** Canvas tools
+
+  :white_check_mark: Assignments, Quizzes, Discussions, External LTI tools that address a ***single*** Pathways outcome  
   :no_entry_sign: External LTI tools through which multiple Pathways outcomes are evaluated
 - Assessed assignments must be configured in the app prior to reporting
   - Can be done at any time during the semester
   - Can be done retroactively even if assignment is in the past
 
 ## Outcome Mapping Options
-
+ 
 Below are the options available for mapping an assignment to an outcome. They will be described in greater detail on subsequent pages.
 
 1. "Thresholds Based on Point Totals"
@@ -48,7 +49,7 @@ Below are the options available for mapping an assignment to an outcome. They wi
 Canvas has two types of quizzes available: ***Classic*** and ***New***. Unless you have actively created a ***New*** quiz, your quizzes are ***Classic***.
 
 - If you want to evaluate all questions on a quiz for a single Pathways outcome, you can use Option #1 above with ***Classic*** quizzes.
-- If you want to evaulate multiple Pathways outcomes in a single quiz, then you MUST use Option #2 above with ***New*** quizzes.
+- If you want to evaluate multiple Pathways outcomes in a single quiz, then you MUST use Option #2 above with ***New*** quizzes.
 
 !> **Before you create a New quiz or convert a Classic quiz to a New quiz, please be aware of the following:**  
  :x: You cannot transfer multiple question banks from Classic to New Quizzes  
