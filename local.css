@@ -7,3 +7,7 @@ p img {
 blockquote strong {
   font-size: 1.5em;
 }
+
+[data-page="faqs.md"] h2 {
+  font-size: 1.25em;
+}
