@@ -1,5 +1,7 @@
 # Pathways Assessment Reporting Tool
 
+!> *This documentation is accurate as of October 7, 2024*.
+
 ## Summary
 
 The **Pathways Assessment Reporting Tool** is a Canvas-based application for preparing your course to report student performance on Pathways student learning outcomes.

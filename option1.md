@@ -14,7 +14,7 @@ If you have more than ten (10) assignments eligible, then the assignments will b
 
 Clicking the name of an assignment will open that Canvas assignment in a new browser tab. :four:
 
-In the list, you are reminded of the point that each assignment is worth :five: and the state of the assignment in Canvas: published (available to students), unpublished (unavailable to students), or already configured for another outcome. :six:
+In the list, you are reminded of the points that each assignment is worth :five: and the state of the assignment in Canvas: published (available to students), unpublished (unavailable to students), or already configured for another outcome. :six:
 
 ![Selecting an Assignment Guide](/_media/selectingassignment.png "Selecting an Assignment Guide")
 
@@ -30,3 +30,24 @@ When you are satisfied with the levels, click the **Confirm and Save** :five: bu
 
 ![Configure Competency Guide](/_media/configurecompency.png "Configure Competency Guide")
 ![Configuration Confirmation Pop-Up](/_media/configurationconfirm.png "Configuration Confirmation Pop-Up")
+
+## Finalizing Option #1
+
+!> ***IMPORTANT NOTE***  
+Your assignment must already have been completed by students, **AND** you must grade the assignment before continuing.
+
+From the Dashboard screen, click the **Finalize Outcomes** button next to the assignment configured with Option #1.
+
+![Begin finalizing option 1](/_media/finalizeoption1.png "Begin finalizing option 1")
+
+The Pathways tool will automatically read the grades for your assignment and apply the threshold levels set previously.
+
+Double-check both that your threshold levels are set correctly and that the distribution of scores matches your expectations. If students have not completed the assignment or you have not graded those students' assignments, they will be categorized under "No Evidence".
+
+![Confirming option 1 setup](/_media/confirmoption1.png "Confirming option 1 setup")
+
+If the data is correct, click the **Confirm & Submit** button then click anywhere on the screen to return to the dashboard.
+
+The assignment will then appear as **Complete**.  If you have completed this process too soon (e.g., more assignments need to be graded, accidentally clicked Confirm, etc.), click the **Undo Finalization** button.
+
+![Option 1 complete](/_media/option1complete.png "Option 1 complete")

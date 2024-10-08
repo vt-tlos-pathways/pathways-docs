@@ -4,3 +4,4 @@
 
 ?> :white_check_mark: Add Pathways outcomes to an assignment's rubric  
 :white_check_mark: Outcomes will be visible to students
+

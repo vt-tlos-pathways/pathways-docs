@@ -4,6 +4,5 @@
 * [Option #2 Configuration](option2.md)
 * [Option #3 Configuration](option3.md)
 * [Option #4 Configuration](option4.md)
-* [Finalizing Configuration](finalize.md)
 * [Submitting the Report](submitting.md)
 * [FAQs](faqs.md)
