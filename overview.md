@@ -70,6 +70,7 @@ Below is a reminder of the options available.  Click a link to go directly to a 
 
 1. ["Thresholds Based on Point Totals"](option1.md)
     - Based on final point total of entire assignment/quiz
+    - An overall assignment grade may only be used to measure a Pathways Outcome if every aspect of the assignment directly relates to that outcome and no other Pathways outcomes/skills/knowledge areas.
 2. ["New Quiz Thresholds Based on Selected Quiz Questions"](option2.md)
     - Based on Pathways outcomes applied to quiz questions
     - Based on number of questions with credit/no credit (at least 3 per outcome per quiz)

@@ -1,6 +1,6 @@
 # Pathways Assessment Reporting Tool
 
-!> *This documentation is accurate as of October 7, 2024*.
+!> *This documentation is accurate as of October 9, 2024*.
 
 ## Summary
 
@@ -33,6 +33,7 @@ Below are the options available for mapping an assignment to an outcome. They wi
 
 1. "Thresholds Based on Point Totals"
     - Based on final point total of entire assignment/quiz
+    - An overall assignment grade may only be used to measure a Pathways Outcome if every aspect of the assignment directly relates to that outcome and no other Pathways outcomes/skills/knowledge areas.
 2. "New Quiz Thresholds Based on Selected Quiz Questions"
     - Based on Pathways outcomes applied to quiz questions
     - Based on number of questions with credit/no credit (at least 3 per outcome per quiz)
