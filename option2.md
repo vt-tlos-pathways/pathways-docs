@@ -38,8 +38,9 @@ Click the **Confirm Alignments** button to confirm. :four:
 
 Repeat these steps for other questions in the quiz.  You can assign as many different outcomes to the same quiz as you need.
 
-!> ***IMPORTANT NOTE***  
-You **must** assign the same outcome to ***at least*** three (3) questions in each quiz to use Option #2.
+!> ***IMPORTANT NOTES***  
+- You **must** assign the same outcome to ***at least*** three (3) questions in each quiz to use Option #2.  
+- A quiz question should only have one outcome assigned to it.
 
 ## Selecting a New Quiz
 
