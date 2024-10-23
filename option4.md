@@ -2,7 +2,7 @@
 
 > **"Hiding Assessment from Students for a Single Pathways Outcome"**
 
-?> :white_check_mark: Students won't see ratings for Pathways Outcomes in the gradebook.  
+?> :white_check_mark: Students won't see ratings for Pathways Outcomes in the grade book.  
 :white_check_mark: With this method, the same assignment can be used to assess multiple Pathways Outcomes.  
 :white_check_mark: Requires separate grading in a specialized tool. Course grading and Pathways assessment are separate processes.  
 

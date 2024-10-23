@@ -79,7 +79,7 @@ Below is a reminder of the options available.  Click a link to go directly to a 
     - Add Pathways outcomes to an assignment's rubric
     - Outcomes will be visible to students
 4. ["Hiding Assessment from Students for a Single Pathways Outcome"](option4.md)
-    - Students won't see ratings for Pathways Outcomes in the gradebook.
+    - Students won't see ratings for Pathways Outcomes in the grade book.
     - With this method, the same assignment can be used to assess multiple Pathways Outcomes.
     - Requires separate grading in a specialized tool. Course grading and Pathways assessment are separate processes.
 
