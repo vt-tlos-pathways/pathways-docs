@@ -3,7 +3,7 @@
 > **"New Quiz Thresholds Based on Selected Quiz Questions"**
 
 ?> :white_check_mark: Based on Pathways outcomes applied to quiz questions  
-:white_check_mark: Based on number of questions with credit/no credit (at least 3 per outcome per quiz)  
+:white_check_mark: Based on number of points on questions for an outcome (at least 3 questions per outcome per quiz)  
 :white_check_mark: Quiz must be built with corresponding outcomes
 
 Option #2 is used if you want to assess a quiz using ***multiple*** Pathways learning outcomes.  If you are only assessing a ***single*** outcome for an entire quiz, please consider using Option #1 instead.
@@ -89,4 +89,16 @@ From the Dashboard screen, click the **Finalize Outcomes** button next to the Ne
 
 ![Begin finalizing option 2](/_media/finalizeoption2.png "Begin finalizing option 2")
 
+The finalize screen will display a set of sliders based on the total points for the questions ***for which this particular outcome has been assigned***. 
 
+In the sample quiz shown below, the quiz has five (5) questions assigned to the outcome being assessed. This is reflected by the sliders allowing no more than 5 points in the thresholds to be assigned to the Pathways ratings. The sliders will always move in concert with one another to guarantee that all three levels always are accounted for.  Minimums are *inclusive* of the number shown.  The left slider sets the minimum score for **Competent**.  The right slider sets the minimum score for **Advanced Competency**.  The three levels are then indicated by the bar below.
+
+Move the sliders to your desired values for each rating.
+
+When you are satisfied with the levels, click the **Confirm &amp; Submit** button. You will receive a confirmation pop-up box. Click anywhere on the screen to return to the Dashboard page.
+
+![Option 2 Finalize Screen](/_media/option2finalizescreen.png "Option 2 Finalize Screen")
+
+!> Remember that your students must take the quiz and it must be graded ***PRIOR TO*** finalizing the Pathways outcome for Option #2.  If not, you will receive the following warning message and all students will be counted as "No Evidence":
+
+![Option 2 ungraded](/_media/option2ungraded.png "Option 2 ungraded")
