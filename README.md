@@ -1,6 +1,6 @@
 # Pathways Assessment Reporting Tool
 
-!> *This documentation is accurate as of October 22, 2024*.
+!> *This documentation is accurate as of October 23, 2024*.
 
 ## Summary
 
