@@ -78,10 +78,9 @@ Below is a reminder of the options available.  Click a link to go directly to a 
 3. ["Rubrics with Pathways Outcomes"](option3.md)
     - Add Pathways outcomes to an assignment's rubric
     - Outcomes will be visible to students
-4. ["Assess an Assignment Separately from Grading Without Modifying Existing Rubrics or Showing Pathways Rubrics to Students"](option4.md)
-    - Creates a copy of all students' submissions for an assignment
-    - Hides Pathways outcomes from students
-    - Discussions and Quizzes cannot be copied
-    - Requires re-grading using a Pathways rubric
+4. ["Hiding Assessment from Students for a Single Pathways Outcome"](option4.md)
+    - Students won't see ratings for Pathways Outcomes in the gradebook.
+    - With this method, the same assignment can be used to assess multiple Pathways Outcomes.
+    - Requires separate grading in a specialized tool. Course grading and Pathways assessment are separate processes.
 
 ![Choose Assignment Guide](/_media/chooseassignment.png "Choose Assignment Guide")

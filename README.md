@@ -1,6 +1,6 @@
 # Pathways Assessment Reporting Tool
 
-!> *This documentation is accurate as of October 9, 2024*.
+!> *This documentation is accurate as of October 22, 2024*.
 
 ## Summary
 
@@ -41,11 +41,10 @@ Below are the options available for mapping an assignment to an outcome. They wi
 3. "Rubrics with Pathways Outcomes"
     - Add Pathways outcomes to an assignment's rubric
     - Outcomes will be visible to students
-4. "Assess an Assignment Separately from Grading Without Modifying Existing Rubrics or Showing Pathways Rubrics to Students"
-    - Creates a copy of all students' submissions for an assignment
-    - Hides Pathways outcomes from students
-    - Discussions and Quizzes cannot be copied
-    - Requires re-grading using a Pathways rubric
+4. "Hiding Assessment from Students for a Single Pathways Outcome"
+    - Students won't see ratings for Pathways Outcomes in the gradebook.
+    - With this method, the same assignment can be used to assess multiple Pathways Outcomes.
+    - Requires separate grading in a specialized tool. Course grading and Pathways assessment are separate processes.
 
 ## Caveats for Evaluating Quizzes
 
