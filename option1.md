@@ -4,7 +4,7 @@
 
 ?> :white_check_mark: Based on final point total of entire assignment/quiz
 
-Option #1 is the easiest to configure for an assignment because it is uses the **full final point total** of an entire assignment to be applied to a single Pathways outcome. Faculty decide the point total thresholds that meet the three Pathways levels: Developing Competency, Competent, and Advanced Competency.
+Option #1 is the easiest to configure for an assignment because it uses the **full final point total** of an entire assignment to be applied to a single Pathways outcome. Faculty decide the point total thresholds that meet the three Pathways levels: Developing Competency, Competent, and Advanced Competency.
 
 ## Selecting an Assignment
 
@@ -20,7 +20,7 @@ In the list, you are reminded of the points that each assignment is worth :five:
 
 ## Configure Competency Threshold
 
-Once an assignment is selected under Option #1, you are able to set the threshold scores for the three Pathways levels that are based the final point total of the assignment. :one:
+Once an assignment is selected under Option #1, you are able to set the threshold scores for the three Pathways levels that are based on the final point total of the assignment. :one:
 
 The sliders reflect the total points, and will always move in concert with one another to guarantee that all three levels always are accounted for.  Minimums are *inclusive* of the number shown.  The left slider :two: sets the minimum score for **Competent**.  The right slider :three: sets the minimum score for **Advanced Competency**.  The three levels are then indicated by the bar below. :four:
 
@@ -42,11 +42,11 @@ From the Dashboard screen, click the **Finalize Outcomes** button next to the as
 
 The Pathways tool will automatically read the grades for your assignment and apply the threshold levels set previously.
 
-Double-check both that your threshold levels are set correctly and that the distribution of scores matches your expectations. If students have not completed the assignment or you have not graded those students' assignments, they will be categorized under "No Evidence".
+Double-check both that your threshold levels are set correctly and that the distribution of scores matches your perception of the quality of student work submitted. If students have not completed the assignment or you have not graded those students' assignments, they will be categorized under "No Evidence".
 
 ![Confirming option 1 setup](/_media/confirmoption1.png "Confirming option 1 setup")
 
-If the data is correct, click the **Confirm & Submit** button then click anywhere on the screen to return to the dashboard.
+If the data are correct, click the **Confirm & Submit** button then click anywhere on the screen to return to the dashboard.
 
 The assignment will then appear as **Complete**.  If you have completed this process too soon (e.g., more assignments need to be graded, accidentally clicked Confirm, etc.), click the **Undo Finalization** button.
 

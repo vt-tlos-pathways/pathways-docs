@@ -26,7 +26,7 @@ The Pathways Tool home page is where you can monitor your progress through *conf
 >
 > Also called "Finalizing" in the tool, completing means that you have already graded your assignment and that you are ready to confirm the distribution of student scores across the three Pathways assessment levels
 
-There are two meters that show your progress through the Pathways assessment process.  The first indicates how many of the outcomes in your course have at least one assignment applied :two:.  The second indicates how many configured outcomes have been completed and are ready for final reporting :three:.  Both buttons by the meters will take you to the same dashboard page.
+There are two meters that show your progress through the Pathways assessment process.  The first indicates how many of the outcomes in your course have an assignment applied :two:.  The second indicates how many configured outcomes have been completed and are ready for final reporting :three:.  Both buttons by the meters will take you to the same dashboard page.
 
 When all assignments have been configured and completed, the **Review Outcomes & Submit** button :four: will take you to the final step of the Pathways assessment process: submitting your report.
 
@@ -60,9 +60,9 @@ Additionally, the **Dashboard** link at the top of the page :eight: will return 
 
 The first step in the Pathways assessment process is to select an assignment that will be used to assess a particular learning outcome.  The Choose Assignment page is reached by clicking the **Choose Assignment** button in the third column of an outcome on the Dashboard page.
 
-This page reflect the chosen outcome :one: so that you can confirm that you are working on the correct one at the moment.
+This page reflects the chosen outcome :one: so that you can confirm that you are working on the correct one at the moment.
 
-The next step is to select how you will be evaluating student work on the three Pathways levels: Developing Competency, Competent, and Advanced Competency :two:  Click the toggle next to the one you would like to activate it :three:.
+The next step is to select how you will be evaluating student work on the three Pathways levels: Developing Competency, Competent, and Advanced Competency :two:  Click the toggle next to the one you would like to activate :three:.
 
 When you have activated the desired method, click the **Continue** button :four: at the bottom of the page.
 
@@ -73,13 +73,13 @@ Below is a reminder of the options available.  Click a link to go directly to a 
     - An overall assignment grade may only be used to measure a Pathways Outcome if every aspect of the assignment directly relates to that outcome and no other Pathways outcomes/skills/knowledge areas.
 2. ["New Quiz Thresholds Based on Selected Quiz Questions"](option2.md)
     - Based on Pathways outcomes applied to quiz questions
-    - Based on number of questions with credit/no credit (at least 3 per outcome per quiz)
+    - Based on number of points on questions for an outcome (at least 3 per outcome per quiz)
     - Quiz must be built with corresponding outcomes
 3. ["Rubrics with Pathways Outcomes"](option3.md)
     - Add Pathways outcomes to an assignment's rubric
     - Outcomes will be visible to students
 4. ["Hiding Assessment from Students for a Single Pathways Outcome"](option4.md)
-    - Students won't see ratings for Pathways Outcomes in the grade book.
+    - Students won't see ratings for Pathways Outcomes in the gradebook.
     - With this method, the same assignment can be used to assess multiple Pathways Outcomes.
     - Requires separate grading in a specialized tool. Course grading and Pathways assessment are separate processes.
 

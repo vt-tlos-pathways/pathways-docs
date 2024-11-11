@@ -3,6 +3,7 @@
 > **"New Quiz Thresholds Based on Selected Quiz Questions"**
 
 ?> :white_check_mark: Based on Pathways outcomes applied to quiz questions  
+:white_check_mark: With this method, the same assignment can be used to assess multiple Pathways Outcomes  
 :white_check_mark: Based on number of points on questions for an outcome (at least 3 questions per outcome per quiz)  
 :white_check_mark: Quiz must be built with corresponding outcomes
 
@@ -52,7 +53,7 @@ Clicking the name of a quiz will open that Canvas assignment in a new browser ta
 
 In the list, you are reminded of the points that each quiz is worth :four: and the state of the assignment in Canvas: published (available to students) or unpublished (unavailable to students). :five:
 
-To help you match a quiz to the outcome you're currently working on, the list of quizzes also displays a list of Pathways outcomes that have been assigned to questions in the quiz. :six: If there are no outcomes associated with the quiz you want to use, you can click on the name of the quiz to add them now.
+To help you match a quiz to the outcome you're currently working on, the list of quizzes also displays a list of Pathways outcomes that have been assigned to questions in the quiz. :six: If there are no outcomes associated with the quiz you want to use, you can click on the name of the quiz to add them now. You may only select one quiz per Pathways learning outcome.
 
 Click the **Select** button for the desired quiz when you're ready to attach it to the outcome.
 
@@ -99,6 +100,6 @@ When you are satisfied with the levels, click the **Confirm &amp; Submit** butto
 
 ![Option 2 Finalize Screen](/_media/option2finalizescreen.png "Option 2 Finalize Screen")
 
-!> Remember that your students must take the quiz and it must be graded ***PRIOR TO*** finalizing the Pathways outcome for Option #2.  If not, you will receive the following warning message and all students will be counted as "No Evidence":
+!> Remember that your students must take the quiz and it must be graded ***PRIOR TO*** finalizing the Pathways outcome for Option #2.  If not, you will receive the following warning message and all students will be counted as "No Evidence".
 
 ![Option 2 ungraded](/_media/option2ungraded.png "Option 2 ungraded")

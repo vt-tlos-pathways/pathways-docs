@@ -15,9 +15,9 @@ The **Pathways Assessment Reporting Tool** is a Canvas-based application for pre
 
 - Course must use Canvas for assignments and grading
   - Course does not *need* to be publicly available to students
-- Pathways concepts and objectives are pre-loaded in courses in Canvas so you'll only see those that apply to your course
+- Pathways concepts and outcomes are pre-loaded in courses in Canvas so you'll only see those that apply to your course
 
-- Faculty then apply objectives to assignments using the tool
+- Faculty then apply outcomes to assignments using the tool
 
 - Assessed assignments must use ***built-in*** Canvas tools
 
@@ -36,7 +36,7 @@ Below are the options available for mapping an assignment to an outcome. They wi
     - An overall assignment grade may only be used to measure a Pathways Outcome if every aspect of the assignment directly relates to that outcome and no other Pathways outcomes/skills/knowledge areas.
 2. "New Quiz Thresholds Based on Selected Quiz Questions"
     - Based on Pathways outcomes applied to quiz questions
-    - Based on number of questions with credit/no credit (at least 3 per outcome per quiz)
+    - Based on number of points on questions for an outcome (at least 3 per outcome per quiz)
     - Quiz must be built with corresponding outcomes
 3. "Rubrics with Pathways Outcomes"
     - Add Pathways outcomes to an assignment's rubric

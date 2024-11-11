@@ -3,6 +3,7 @@
 > **"Rubrics with Pathways Outcomes"**
 
 ?> :white_check_mark: Add Pathways outcomes to an assignment's rubric  
+:white_check_mark: With this method, the same assignment can be used to assess multiple Pathways Outcomes  
 :white_check_mark: Outcomes will be visible to students
 
 Option #3 allows you to create or add to a Canvas rubric for an assignment that includes Pathways outcomes.  When grading the assignment, you will apply the Pathways assessment levels (Developing Competency, Competent, Advanced Competency) to the outcomes in the rubric. Configuring the assignment in the Pathways Assessment Tool links the assignment to the outcome with no further actions necessary.
@@ -39,7 +40,9 @@ Clicking the name of an assignment will open that Canvas assignment in a new bro
 
 In the list, you are reminded of the points that each assignment is worth :five: and the state of the assignment in Canvas: published (available to students), unpublished (unavailable to students), or already configured for another outcome. :six:
 
-To help you match an assignment to the outcome you're currently working on, the list of assignments also displays a list of Pathways outcomes that have been added to an assignment's rubric. :seven: If there are no outcomes associated with the assignment you want to use, you can click on the name of the assignment to add them now.
+To help you match an assignment to the outcome you're currently working on, the list of assignments also displays a list of Pathways outcomes that have been added to an assignment's rubric. :seven: If there are no outcomes associated with the assignment you want to use, you can click on the name of the assignment to add them now. You may only select one assignment per Pathways learning outcome.
+
+If one assignment addresses multiple Pathways learning outcomes, Option #3 allows the same assignment to be used to measure more than one Pathways outcome.
 
 ![Selecting an Assignment Guide](/_media/selectingassignmentoption3.png "Selecting an Assignment Guide")
 
@@ -74,13 +77,11 @@ From the Dashboard screen, click the **Finalize Outcomes** button next to the as
 
 ![Begin finalizing option 3](/_media/finalizeoption3.png "Begin finalizing option 3")
 
-The Pathways tool will automatically read the grades for your assignment and apply the threshold levels set previously.
-
-Double-check both that your threshold levels are set correctly and that the distribution of scores matches your expectations. If students have not completed the assignment or you have not graded those students' assignments, they will be categorized under "No Evidence".
+Double-check that the distribution of scores matches your perceptions of the quality of student work submitted. If students have not completed the assignment or you have not graded those students' assignments, they will be categorized under "No Evidence".
 
 ![Confirming option 3 setup](/_media/confirmoption3.png "Confirming option 3 setup")
 
-If the data is correct, click the **Confirm & Submit** button then click anywhere on the screen to return to the dashboard.
+If the data are correct, click the **Confirm & Submit** button then click anywhere on the screen to return to the dashboard.
 
 The assignment will then appear as **Complete**.  If you have completed this process too soon (e.g., more assignments need to be graded, accidentally clicked Confirm, etc.), click the **Undo Finalization** button.
 

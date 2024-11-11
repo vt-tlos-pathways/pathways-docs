@@ -2,17 +2,17 @@
 
 > **"Hiding Assessment from Students for a Single Pathways Outcome"**
 
-?> :white_check_mark: Students won't see ratings for Pathways Outcomes in the grade book.  
+?> :white_check_mark: Students won't see ratings for Pathways Outcomes in the gradebook.  
 :white_check_mark: With this method, the same assignment can be used to assess multiple Pathways Outcomes.  
 :white_check_mark: Requires separate grading in a specialized tool. Course grading and Pathways assessment are separate processes.  
 
 Option #4 allows you to assess multiple Pathways outcomes using the same assignment while hiding the Pathways ratings from students.
 
-Once all students have submitted their assignments, you can use begin assessment in the Pathways tool using a specialized grading interface that allows you to assign ratings to students. Only twenty (20) students must be rated; however, it is encouraged that you assess as many as you can.
+Once all students have submitted their assignments, you can begin assessment in the Pathways tool using a specialized grading interface that allows you to assign ratings to students. Only twenty (20) students must be rated; however, it is encouraged that you assess as many as you can.
 
 ## Selecting an Assignment
 
-The select assignment page displays a list of assignments that are valid for Option #4.  If an assignment is available it will have a green **"Select"** button to its right. :one:  If it has already been configured for another outcome, the button will be greyed out and marked as **"Unavailable"**. :two:
+The select assignment page displays a list of assignments that are valid for Option #4.  If an assignment is available it will have a green **"Select"** button to its right. :one:  If it has already been configured for another outcome under Option #1 ("Thresholds Based on Point Totals"), the button will be greyed out and marked as **Unavailable**. :two:
 
 If you have more than ten (10) assignments eligible, then the assignments will be broken into multiple pages that can be scrolled through at the bottom of the list. :three:
 
@@ -57,11 +57,11 @@ For each student, you will see a set of four buttons that correspond to the poss
 
 To view each student's submission to the assignment, click each student's "Submission Link" :two:, and it will open in a separate browser tab.
 
-When you select a Pathways rating for a student, a green check will appear next to the student's row. :three: Student's without a rating will have a circle with a line through it. :four:
+When you select a Pathways rating for a student, a green check will appear next to the student's row. :three: Students without a rating will have a circle with a line through it. :four:
 
-As you rate students, a counter will remind you the number of required ratings you have completed. :five:
+As you rate students, a counter will remind you of the number of required ratings you have completed. :five:
 
-When all required students have been rated, click the **Complete Competency Assessment** button. That button will be disabled until all required students have been rated. At any time, you can click the ** Save for Later** button and continue assessment at a later time. :six:
+When all required students have been rated, click the **Complete Competency Assessment** button. That button will be disabled until all required students have been rated. At any time, you can click the **Save for Later** button and continue assessment at a later time. :six:
 
 Regardless of your choice, you will receive a confirmation pop-up box. Click anywhere on the screen to return to the Dashboard page.
 
@@ -75,7 +75,7 @@ If you have saved your assessment for later, you can resume assessment by clicki
 
 ## Revisiting Assessment
 
-If you need to make changes to your assessment or accidentally confirmed, you can click the three-dot button and choose **Revisit Assessment** button on the Dashboard page next to the outcome in question.
+If you need to make changes to your assessment or accidentally confirmed, you can click the three-dot button and choose **Revisit Assessment** on the Dashboard page next to the outcome in question.
 
 ![Revisit Assessment](/_media/option4revisit.png "Revisit Assessment")
 
@@ -85,11 +85,11 @@ Once you have completed all required ratings and have clicked the **Complete Com
 
 ![Finalize Option 4](/_media/finalizeoption4.png "Finalize Option 4")
 
-Double-check that the distribution of scores matches your expectations. If students have not completed the assignment or you have not graded those students' assignments, they will be categorized under "No Evidence".
+Double-check that the distribution of scores matches your perceptions of the quality of student work submitted. If students have not completed the assignment or you have not graded those students' assignments, they will be categorized under "No Evidence".
 
 ![Confirming option 4 distribution](/_media/confirmoption4.png "Confirming option 4 distribution")
 
-If the data is correct, click the **Confirm & Submit** button then click anywhere on the screen to return to the dashboard.
+If the data are correct, click the **Confirm & Submit** button then click anywhere on the screen to return to the dashboard.
 
 The assignment will then appear as **Complete**.  If you have completed this process too soon (e.g., more assignments need to be graded, accidentally clicked Confirm, etc.), click the **Undo Finalization** button.
 
