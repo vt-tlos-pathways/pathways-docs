@@ -1,13 +1,13 @@
 # Frequently Asked Questions
 
-## Assessing Paper Assignments
-### What do I do if I am assessing paper assignments (or a performance or another piece of student work that is not submitted electronically in Canvas)?
+## Assessing Non-Canvas Assignments
+### What do I do if I am assessing assignments not submitted electronically in Canvas (e.g., physical papers, performances, in-class discussions, in-class activities)?
 
-To use the Pathways Assessment Tool, your assignments **must** exist in your Canvas course.
+To use the Pathways Assessment Tool, an assignment **must** exist in your Canvas course; however, it can be set up so the assignment is still __administered__ outside of Canvas.
 
 Add your assignments under "Assignments" in Canvas. Under "Submission Type" select either "No Submission" or "On Paper". You must publish the assignment in order to apply grades. These assignments can then be assigned to Pathways outcomes in the tool.
 
-If you are not assigning grades to student papers, you can still use them for Pathways assessment. Add the assignment as described above and leave the assignment as **unpublished**.  Students will not see it in their gradebook.  In the Pathways Assessment Tool, choose **Option #4** when linking the assignment to an outcome. Use the rating tool described on the [Option #4](option4.md) page to assign Pathways ratings to students.
+If you are not assigning grades to this student work, you can still select it for Pathways assessment. Add the assignment as described above and leave the assignment as **unpublished**.  Students will not see it in their gradebook.  In the Pathways Assessment Tool, choose **Option #4** when linking the assignment to an outcome. Use the rating tool described on the [Option #4](option4.md) page to assign Pathways ratings to students.
 
 ## Third-Party Software
 ### How can I use student work that utilizes third-party software such as ALEKS, Cengage, MyLab, etc.? 
