@@ -3,7 +3,7 @@
 ## Assessing Non-Canvas Assignments
 ### What do I do if I am assessing assignments not submitted electronically in Canvas (e.g., physical papers, performances, in-class discussions, in-class activities)?
 
-To use the Pathways Assessment Tool, an assignment **must** exist in your Canvas course; however, it can be set up so the assignment is still __administered__ outside of Canvas.
+To use the Pathways Assessment Tool, an assignment **must** exist in your Canvas course; however, it can be set up so the assignment is still _administered_ outside of Canvas.
 
 Add your assignments under "Assignments" in Canvas. Under "Submission Type" select either "No Submission" or "On Paper". You must publish the assignment in order to apply grades. These assignments can then be assigned to Pathways outcomes in the tool.
 
