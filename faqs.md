@@ -7,7 +7,7 @@ To use the Pathways Assessment Tool, your assignments **must** exist in your Can
 
 Add your assignments under "Assignments" in Canvas. Under "Submission Type" select either "No Submission" or "On Paper". You must publish the assignment in order to apply grades. These assignments can then be assigned to Pathways outcomes in the tool.
 
-If you are not assigning grades to student papers, you can still use them for Pathways assessment. Add the assignment as described above and leave the assignment as **unpublished**.  Students will then not see it in the gradebook.  For Pathways, choose **[Option #4](#option4.md)** in the Pathways Assessment Tool when linking the assignment to an outcome.  Option #4 allows you to rate assignments on the three-level Pathways system without assigning a grade.
+If you are not assigning grades to student papers, you can still use them for Pathways assessment. Add the assignment as described above and leave the assignment as **unpublished**.  Students will then not see it in the gradebook.  For Pathways, choose **[Option #4](option4.md)** in the Pathways Assessment Tool when linking the assignment to an outcome.  Option #4 allows you to rate assignments on the three-level Pathways system without assigning a grade.
 
 ## Third-Party Software
 ### How can I use student work that utilizes third-party software such as ALEKS, Cengage, MyLab, etc.? 
