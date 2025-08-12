@@ -45,19 +45,19 @@ Repeat these steps for other questions in the quiz.  You can assign as many diff
 
 ## Selecting a New Quiz
 
-The select assignment page displays a list of quizzes that are valid for Option #2.  Unlike Option #1, #3, and #4, this list only displays New Quizzes rather than all types of assignments.  If a quiz is available it will have a green **"Select"** button to its right. :one:
+The select assignment page displays a list of all of your assignments.  If a quiz is available, it will have a green **"Select"** button to its right. :one:
 
-If you have more than ten (10) quizzes eligible, then the quizzes will be broken into multiple pages that can be scrolled through at the bottom of the list. :two:
+If you have more than ten (10) assignments in your course, then the assignments will be broken into multiple pages that can be scrolled through at the bottom of the list. :two:
 
-Clicking the name of a quiz will open that Canvas assignment in a new browser tab. :three:
+Clicking the name of an assignment will open that Canvas assignment in a new browser tab. :three:
 
-In the list, you are reminded of the points that each quiz is worth :four: and the state of the assignment in Canvas: published (available to students) or unpublished (unavailable to students). :five:
+In the list, you are reminded of the points that each assignment is worth :four: and the state of the assignment in Canvas: published (available to students) or unpublished (unavailable to students). :five:
 
-To help you match a quiz to the outcome you're currently working on, the list of quizzes also displays a list of Pathways outcomes that have been assigned to questions in the quiz. :six: If there are no outcomes associated with the quiz you want to use, you can click on the name of the quiz to add them now. You may only select one quiz per Pathways learning outcome.
+To help you match a valid New quiz to the outcome you're currently working on, the list of assignments also displays the Pathways outcomes that have been assigned to questions in each New quiz. :six: If there are no outcomes associated with the New quiz you want to use, you can click on the name of the quiz to add them now. You may only select one quiz per Pathways learning outcome.
 
-Click the **Select** button for the desired quiz when you're ready to attach it to the outcome.
+Click the **Select** button for the desired New quiz when you're ready to attach it to the outcome.
 
-![New Quizzes Only List](/_media/newquizlist.png "New Quizzes Only List")
+![New Quizzes List](/_media/newquizlist.png "New Quizzes List")
 
 ## Confirming Attachment
 

@@ -1,6 +1,6 @@
 # Pathways Assessment Reporting Tool
 
-!> *This documentation is accurate as of December 3, 2024*.
+!> *This documentation is accurate as of August 12, 2025*.
 
 ## Summary
 
@@ -35,13 +35,19 @@ Below are the options available for mapping an assignment to an outcome. They wi
     - Based on final point total of entire assignment/quiz
     - An overall assignment grade may only be used to measure a Pathways Outcome if every aspect of the assignment directly relates to that outcome and no other Pathways outcomes/skills/knowledge areas.
 2. "New Quiz Thresholds Based on Selected Quiz Questions"
-    - Based on Pathways outcomes applied to quiz questions
+    - Based on Pathways outcomes applied to "New" Quiz questions
     - Based on number of points on questions for an outcome (at least 3 per outcome per quiz)
     - Quiz must be built with corresponding outcomes
-3. "Rubrics with Pathways Outcomes"
-    - Add Pathways outcomes to an assignment's rubric
-    - Outcomes will be visible to students
-4. "Hiding Assessment from Students for a Single Pathways Outcome"
+3. "Thresholds Based on Selected Quiz/Exam Questions"
+    - Choose a "Classic" quiz. 
+    - Select the specific questions, question banks, or groups that are relevant to this Pathways Outcome and then set the threshold of points required to meet each competency level.
+    - Uses final point total on selected questions. Competencies calculated automatically.
+    - There must be at least one submission of the particular quiz before configuring this option
+4. "Use an Existing Grading Rubric"
+    - Use point totals for selected rubric items to apply a Pathways rating for an outcome
+    - Can use the same assignment for multiple Pathways outcomes
+    - Outcomes will be visible to students if you use Pathways-specific rubric items
+5. "Hiding Assessment from Students for a Single Pathways Outcome"
     - Students won't see ratings for Pathways Outcomes in the gradebook.
     - With this method, the same assignment can be used to assess multiple Pathways Outcomes.
     - Requires separate grading in a specialized tool. Course grading and Pathways assessment are separate processes.
@@ -50,8 +56,10 @@ Below are the options available for mapping an assignment to an outcome. They wi
 
 Canvas has two types of quizzes available: ***Classic*** and ***New***. Unless you have actively created a ***New*** quiz, your quizzes are ***Classic***.
 
-- If you want to evaluate all questions on a quiz for a single Pathways outcome, you can use Option #1 above with ***Classic*** quizzes.
-- If you want to evaluate multiple Pathways outcomes in a single quiz, then you MUST use Option #2 above with ***New*** quizzes.
+- If you want to evaluate all questions on a quiz for a single Pathways outcome with ***Classic*** or ***New*** quizzes, use Option #1.
+- If you want to evaluate multiple Pathways outcomes in a single ***New*** quiz, use Option #2.
+- If you want to evaluate multiple Pathways outcomes in a single ***Classic*** quiz, use Option #3.
+- If you want to evaluate multiple questions on a quiz for multiple Pathways outcomes ***separate from grading*** with ***Classic*** or ***New*** quizzes, use Option #5.
 
 !> **Before you create a New quiz or convert a Classic quiz to a New quiz, please be aware of the following:**  
  :x: You cannot transfer multiple question banks from Classic to New Quizzes  

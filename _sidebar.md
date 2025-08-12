@@ -4,5 +4,6 @@
 * [Option #2 Configuration](option2.md "Option #2 Configuration | Pathways Assessment Tool Documentation")
 * [Option #3 Configuration](option3.md "Option #3 Configuration | Pathways Assessment Tool Documentation")
 * [Option #4 Configuration](option4.md "Option #4 Configuration | Pathways Assessment Tool Documentation")
+* [Option #5 Configuration](option5.md "Option #5 Configuration | Pathways Assessment Tool Documentation")
 * [Submitting the Report](submitting.md "Submitting the Report | Pathways Assessment Tool Documentation")
 * [FAQs](faqs.md "FAQs | Pathways Assessment Tool Documentation")

@@ -7,7 +7,7 @@ To use the Pathways Assessment Tool, an assignment **must** exist in your Canvas
 
 Add your assignments under "Assignments" in Canvas. Under "Submission Type" select either "No Submission" or "On Paper".  To assess the assignment for Pathways, it can remain **unpublished**. In this case, students will neither see it under Assignments nor in their gradebook.  However, if you plan to assign a traditional grade to this assignment, it ***must*** be published.  Whether published or not, these assignments can then be assigned to Pathways outcomes in the tool.
 
-In the Pathways Assessment Tool, choose **Option #4** when linking the assignment to an outcome. Use the rating tool described on the [Option #4](option4.md) page to assign Pathways ratings to students.
+In the Pathways Assessment Tool, choose **Option #5** when linking the assignment to an outcome. Use the rating tool described on the [Option #5](option5.md) page to assign Pathways ratings to students.
 
 ## Third-Party Software
 ### How can I use student work that utilizes third-party software such as ALEKS, Cengage, MyLab, etc.? 
@@ -26,12 +26,12 @@ If you use an LTI for assignments or quizzes that address multiple Pathways outc
 ## Hiding Pathways Ratings
 ### What if I don’t want my students to see how they are rated on the Pathways student learning outcomes approved for my course?
 
-Options #1, #2, and #4 all effectively hide Pathways evaluation from students.
+Options #1, #2, #3, and #5 all effectively hide Pathways evaluation from students.
 
 To determine Pathways rating levels:
 - Option #1 uses final scores on assignments
-- Option #2 uses performance on quiz questions
-- Option #4 creates a copy of an assignment's responses and grades them on a rubric unavailable to students
+- Options #2 and #3 uses performance on quiz questions
+- Option #5 creates a copy of an assignment's responses and grades them on a rubric unavailable to students
 
 ## Separating Ratings from Grades
 ### How can I make sure that student ratings on Pathways student learning outcomes are not part of students’ course grades?
@@ -40,23 +40,9 @@ Options #1 and #2 rely on existing grading to determine Pathways rating levels. 
 
 ![Do not count for final grade](/_media/donotcount.png "Do not count for final grade")
 
-For Option #3, follow the [instructions for setting up a rubric](option3.md#setting-up-a-rubric) for Pathways assessment.
+For Option #4, follow the [instructions for setting up a rubric](option4.md#setting-up-a-rubric) for Pathways assessment.
 
-For Option #4, the assignment created by the copy automatically will not be included in final grades.
-
-## Classic vs. New Quizzes
-### I currently use Classic Quizzes but would like to use Option #2 for Pathways assessment. Should I make the switch to New Quizzes? If so, what do I need to do?
-
-Due to how Canvas classic quizzes work, they cannot be used for Option #2 of the Pathways Assessment Tool.  Classic quizzes *can* be used for Option #1 if the entire quiz addresses one and only one Pathways outcome.
-
-If you want to switch to New Quizzes, review the information on the [Option #2](option2.md) page regarding how New Quizzes are different from classic quizzes as well as how to create and configure a New Quiz for Pathways.
-
-## Option #4 Assignments
-### If I want to use Option #4, what type of assignments can I use?
-
-The copy feature used in Option #4 **ONLY** works for regular assignments in Canvas.  It does **NOT** work for quizzes or discussion posts.
-
-We are actively working on a solution that allows Option #4 to work more broadly for hiding Pathways assessment from students.
+For Option #5, the assignment created by the copy automatically will not be included in final grades.
 
 ## Rating Late Work
 ### What if I have already graded/rated student work for Pathways assessment and then a student submits late work?
@@ -72,7 +58,7 @@ If you have already finalized an outcome, you can click the **Undo Finalization*
 
 If each section is loaded into Canvas as a separate course, then you will only need to configure the Pathways Assessment Tool for that section's Canvas course.
 
-If you have a single Canvas course with multiple sections in it, you should configure the course in the Pathways Assessment Tool as discussed throughout this guide.  If you're using Option #3 or #4, then you'll only need to apply Pathways ratings to those students in the assessed section.
+If you have a single Canvas course with multiple sections in it, you should configure the course in the Pathways Assessment Tool as discussed throughout this guide.  If you're using Option #4 or #5, then you'll only need to apply Pathways ratings to those students in the assessed section.
 
 ## Large, Multi-Section Course Setup
 ### If I am the course coordinator for a large, multi-section Pathways course, can I configure the Pathways Assessment Tool for the sampled sections taught by my GAs so that they can just do the grading/rating? How do I do this?

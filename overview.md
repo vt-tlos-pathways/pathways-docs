@@ -75,10 +75,16 @@ Below is a reminder of the options available.  Click a link to go directly to a 
     - Based on Pathways outcomes applied to quiz questions
     - Based on number of points on questions for an outcome (at least 3 per outcome per quiz)
     - Quiz must be built with corresponding outcomes
-3. ["Rubrics with Pathways Outcomes"](option3.md)
-    - Add Pathways outcomes to an assignment's rubric
-    - Outcomes will be visible to students
-4. ["Hiding Assessment from Students for a Single Pathways Outcome"](option4.md)
+3. ["Thresholds Based on Selected Quiz/Exam Questions"](option3.md)
+    - Choose a "Classic" quiz. 
+    - Select the specific questions, question banks, or groups that are relevant to this Pathways Outcome and then set the threshold of points required to meet each competency level.
+    - Uses final point total on selected questions. Competencies calculated automatically.
+    - There must be at least one submission of the particular quiz before configuring this option
+4. ["Use an Existing Grading Rubric"](option4.md)
+    - Use point totals for selected rubric items to apply a Pathways rating for an outcome
+    - Can use the same assignment for multiple Pathways outcomes
+    - Outcomes will be visible to students if you use Pathways-specific rubric items
+5. ["Hiding Assessment from Students for a Single Pathways Outcome"](option5.md)
     - Students won't see ratings for Pathways Outcomes in the gradebook.
     - With this method, the same assignment can be used to assess multiple Pathways Outcomes.
     - Requires separate grading in a specialized tool. Course grading and Pathways assessment are separate processes.

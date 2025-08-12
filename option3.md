@@ -1,88 +1,88 @@
 # Configuring Outcome Mapping Option #3
 
-> **"Rubrics with Pathways Outcomes"**
+> **"Thresholds Based on Selected Quiz/Exam Questions"**
 
-?> :white_check_mark: Add Pathways outcomes to an assignment's rubric  
-:white_check_mark: With this method, the same assignment can be used to assess multiple Pathways Outcomes  
-:white_check_mark: Outcomes will be visible to students
+?> :white_check_mark: Choose a "Classic" quiz.  
+:white_check_mark:  Select the specific questions, question banks, or groups that are relevant to this Pathways Outcome and then set the threshold of points required to meet each competency level.  
+:white_check_mark:  Uses final point total on selected questions. Competencies calculated automatically.  
+:white_check_mark:  There must be at least one submission of the particular quiz before configuring this option
 
-Option #3 allows you to create or add to a Canvas rubric for an assignment that includes Pathways outcomes.  When grading the assignment, you will apply the Pathways assessment levels (Developing Competency, Competent, Advanced Competency) to the outcomes in the rubric. Configuring the assignment in the Pathways Assessment Tool links the assignment to the outcome with no further actions necessary.
+Option #3 is used if you want to assess a quiz using ***multiple*** Pathways learning outcomes.  If you are only assessing a ***single*** outcome for an entire quiz, please consider using Option #1 instead.
 
-> Students *will* see the Pathways assessment rubric outcomes when they view the details of your grading. If you do not want this, consider using [Option #4](option4.md) instead.
+To use Option #3, your quiz must have been created using **Classic Quizzes** in Canvas.
 
-## Setting up a Rubric
+## Selecting a Classic Quiz
 
-!> The details of using rubrics in Canvas is beyond the scope of this document. Please review TLOS's and Instructure's documentation for [adding and grading with rubrics](https://4help.vt.edu/sp?id=kb_article&sys_id=c3f4df0a875fced0dd17426acebb35c7#UseRubrics).
+The select assignment page displays a list of Classic quizzes that are valid for Option #3.  If a quiz is available it will have a green **"Select"** button to its right. :one:
 
-In a new rubric, click the **Find Outcome** link at the bottom of the rubric.
+If you have more than ten (10) assignments eligible, then the assignments will be broken into multiple pages that can be scrolled through at the bottom of the list. :two:
 
-![Find rubric link](/_media/findrubric.png "Find rubric link")
+Clicking the name of an assignment will open that Canvas assignment in a new browser tab. :three:
 
-In the "Find Outcomes" pop-up, select **Pathways Assessment** and then the Pathways concept under which your desired outcome is located. 
+In the list, you are reminded of the points that each assignment is worth :four: and the state of the assignment in Canvas: published (available to students) or unpublished (unavailable to students). :five:
 
-![Rubric outcome selection step 1](/_media/rubricoutcome1.png "Rubric outcome selection step 1")
+Click the **Select** button for the desired Classic quiz when you're ready to attach it to the outcome.
 
-Select the outcome from the list.  Uncheck the box for "Use this criterion for scoring".  Click the **Import** button.  Repeat this process for each outcome that can be evaluated in this assignment.
+![Classic Quizzes List](/_media/classicquizlist.png "Classic Quizzes List")
 
-![Rubric outcome selection step 2](/_media/rubricoutcome2.png "Rubric outcome selection step 2")
+## Confirming Attachment
 
-When grading using SpeedGrader, ensure that you choose one of the Pathways levels in the rubric for each student.
+Based on whether or not a student has taken the quiz at this point, you will encounter one of the two following scenarios.
 
-![Rubric SpeedGrader](/_media/rubricspeedgrader.png "Rubric SpeedGrader")
+### Quiz is NOT Ready to be Configured
 
-## Selecting an Assignment
+If a Classic quiz has **NOT** has not been taken by any student (real or test), you will see the following message:
 
-The select assignment page displays a list of assignments that are valid for Option #3.  If an assignment is available it will have a green **"Select"** button to its right. :one:  If it has already been configured for another outcome under Option #1 ("Thresholds Based on Point Totals"), the button will be greyed out and marked as **"Unavailable"**. :two:
+![Classic Quiz Not Ready](/_media/classicquiznotready.png "Classic Quiz Not Ready")
 
-If you have more than ten (10) assignments eligible, then the assignments will be broken into multiple pages that can be scrolled through at the bottom of the list. :three:
+Here, the **Confirm and Save** button is deactivated, and the message reflects that the quiz has no submissions.
 
-Clicking the name of an assignment will open that Canvas assignment in a new browser tab. :four:
+From this screen, you can click on the name of the quiz to open it in a new browser tab.  Then you will be able to take the quiz as a test student by clicking the "View as Student" button in the top-right corner of the screen.
 
-In the list, you are reminded of the points that each assignment is worth :five: and the state of the assignment in Canvas: published (available to students), unpublished (unavailable to students), or already configured for another outcome. :six:
+![View as Student Button](/_media/viewasstudentbutton.png "View as Student Button")
 
-To help you match an assignment to the outcome you're currently working on, the list of assignments also displays a list of Pathways outcomes that have been added to an assignment's rubric. :seven: If there are no outcomes associated with the assignment you want to use, you can click on the name of the assignment to add them now. You may only select one assignment per Pathways learning outcome.
+The test student's submission will not be seen in your gradebook and will otherwise have no other impact on your course.
 
-If one assignment addresses multiple Pathways learning outcomes, Option #3 allows the same assignment to be used to measure more than one Pathways outcome.
+Once completed, click the "Go Back" button in the Pathways Tool, and select the quiz again [as shown above](#selecting-a-classic-quiz).
 
-![Selecting an Assignment Guide](/_media/selectingassignmentoption3.png "Selecting an Assignment Guide")
+### Quiz is Ready to be Configured
 
-## Confirming the Configuration
+If a quiz has been taken by at least one student (real or test), you will see a list of your quiz's questions ***similar*** to the following image:
 
-### Assignment Has an Outcome Configured
+![Classic Quiz Ready](/_media/classicquiztaken.png "Classic Quiz Ready")
 
-If an assignment has a rubric with the current outcome associated with it, you will see the following message:
+In this example, there are five questions in this quiz.  Click the checkbox next to each question that you would like to include in the rating for the currently selected Pathways outcome :one:.
 
-![Assignment Rubric Ready](/_media/assignmentrubricready.png "Assignment Rubric Ready")
+!> ***IMPORTANT NOTE***  
+The total of the questions you select should ***at least*** be three (3) points to allow proper distribution of the three Pathways rating levels.
 
-Click the **Confirm and Save** button then click anywhere on the screen when the confirmation box appears.
+Once questions are selected, you are able to set the threshold scores for the three Pathways levels that are based on the total points of the selected questions.
 
-### Assignment Does NOT Have an Outcome Configured
+The sliders reflect the total points, and will always move in concert with one another to guarantee that all three levels always are accounted for.  Minimums are *inclusive* of the number shown.  The left slider :two: sets the minimum score for **Competent**.  The right slider :three: sets the minimum score for **Advanced Competency**.  The three levels are then indicated by the bar below.
 
-If an assignment does **NOT** have a rubric with the current outcome associated with it:
+Click the **Confirm and Save** button :four: then click anywhere on the screen when the confirmation box appears.
 
-![Assignment Rubric Not Ready](/_media/assignmentrubricnotready.png "Assignment Rubric Not Ready")
-
-Here, the **Confirm and Save** button is deactivated, and the message reflects that the assignment is not properly set up.
-
-From this screen, you can click on the name of the assignment to open it in a new browser tab.  Then you will be able to add the outcome to a rubric [as demonstrated above](#setting-up-a-rubric).
-
-After you have added the outcome to a rubric, return to this page and click the **refresh** link in the message. If everything is set up correctly, you should see the message from the **Assignment Has an Outcome Configured** section above.
+![Classic Quiz Questions and Sliders](/_media/classicquizsliders.png "Classic Quiz Questions and Sliders")
 
 ## Finalizing Option #3
 
 !> ***IMPORTANT NOTE***  
-Your assignment must already have been completed by students, **AND** you must grade the assignment before continuing.
+You must grade any questions that are not auto-graded before continuing.
 
-From the Dashboard screen, click the **Finalize Outcomes** button next to the assignment configured with Option #3.
+From the Dashboard screen, click the **Finalize Outcomes** button next to the Classic Quiz configured with Option #3.
 
-![Begin finalizing option 3](/_media/finalizeoption3.png "Begin finalizing option 3")
+![Begin finalizing option 3](/_media/finalizeoption3new.png "Begin finalizing option 3")
 
-Double-check that the distribution of scores matches your perceptions of the quality of student work submitted. If students have not completed the assignment or you have not graded those students' assignments, they will be categorized under "No Evidence".
+The Pathways tool will automatically read the grades for your quiz and apply the threshold levels set previously.
 
-![Confirming option 3 setup](/_media/confirmoption3.png "Confirming option 3 setup")
+The finalize screen will display the selected questions from this quiz that apply to the current Pathways outcome along with a review of the thresholds you set for the Pathways rating levels.
+
+Double-check both that your threshold levels are set correctly and that the distribution of scores matches your perception of the quality of student work submitted. If students have not completed the quiz or you have not graded those students' quizzes, they will be categorized under "No Evidence".
+
+![Option 3 Finalize Screen](/_media/option3newfinalizescreen.png "Option 3 Finalize Screen")
 
 If the data are correct, click the **Confirm & Submit** button then click anywhere on the screen to return to the dashboard.
 
 The assignment will then appear as **Complete**.  If you have completed this process too soon (e.g., more assignments need to be graded, accidentally clicked Confirm, etc.), click the **Undo Finalization** button.
 
-![Option 3 complete](/_media/option3complete.png "Option 3 complete")
+![Option 3 complete](/_media/option3newcomplete.png "Option 3 complete")
