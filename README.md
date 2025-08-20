@@ -26,6 +26,16 @@ The **Pathways Assessment Reporting Tool** is a Canvas-based application for pre
 - Assessed assignments must be configured in the app prior to reporting
   - Can be done at any time during the semester
   - Can be done retroactively even if assignment is in the past
+- Each configuration option below can be used more than once
+  - For example, the same option can be used for all outcomes, if desired
+- For Option 1:
+  - Assignment must completely address the chosen outcome
+  - Assignment cannot be used for any other outcome
+- For Options 2-5:
+  - The same assignment can address multiple outcomes
+  - Different elements of the assignment must be used for different outcomes
+  - Different rubric items or different quiz questions
+
 
 ## Outcome Mapping Options
  
@@ -65,3 +75,13 @@ Canvas has two types of quizzes available: ***Classic*** and ***New***. Unless y
  :x: You cannot transfer multiple question banks from Classic to New Quizzes  
  :x: New quizzes will not work if you have multiple questions with attachments, files, images, or videos including links to Kaltura videos and 3rd party tools  
  :x: New quizzes cannot function if you use a quiz to act like a survey
+
+## Pathways Assessment Tool Workflow
+
+1. Set up your assignments in Canvas
+1. Align an assignment with Pathways outcomes in the Tool
+1. Grade assignments in SpeedGrader
+1. Assess assignments for Pathways in the Tool if using Option #5
+1. Finalize Pathways outcomes in the Tool
+1. Review outcomes results in the Tool
+1. Submit results in the Tool
