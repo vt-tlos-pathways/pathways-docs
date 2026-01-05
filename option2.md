@@ -6,6 +6,7 @@
 :white_check_mark: With this method, the same assignment can be used to assess multiple Pathways Outcomes  
 :white_check_mark: Based on number of points on questions for an outcome (at least 3 questions per outcome per quiz)  
 :white_check_mark: Quiz must be built with corresponding outcomes
+:white_check_mark: Quiz must be created ***before any student submissions exist***
 
 Option #2 is used if you want to assess a quiz using ***multiple*** Pathways learning outcomes.  If you are only assessing a ***single*** outcome for an entire quiz, please consider using Option #1 instead.
 

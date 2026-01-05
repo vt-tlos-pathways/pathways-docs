@@ -75,6 +75,7 @@ Below is a reminder of the options available.  Click a link to go directly to a 
     - Based on Pathways outcomes applied to quiz questions
     - Based on number of points on questions for an outcome (at least 3 per outcome per quiz)
     - Quiz must be built with corresponding outcomes
+    - Outcomes must be assigned ***before any student submissions exist***
 3. ["Thresholds Based on Selected Quiz/Exam Questions"](option3.md)
     - Choose a "Classic" quiz. 
     - Select the specific questions, question banks, or groups that are relevant to this Pathways Outcome and then set the threshold of points required to meet each competency level.
