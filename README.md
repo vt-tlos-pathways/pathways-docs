@@ -47,7 +47,7 @@ Below are the options available for mapping an assignment to an outcome. They wi
 2. "New Quiz Thresholds Based on Selected Quiz Questions"
     - Based on Pathways outcomes applied to "New" Quiz questions
     - Based on number of points on questions for an outcome (at least 3 per outcome per quiz)
-    - Quiz must be built with corresponding outcomes ***before any student submissions exist***
+    - Outcomes must be configured ***before any student submissions exist***
 3. "Thresholds Based on Selected Quiz/Exam Questions"
     - Choose a "Classic" quiz. 
     - Select the specific questions, question banks, or groups that are relevant to this Pathways Outcome and then set the threshold of points required to meet each competency level.
